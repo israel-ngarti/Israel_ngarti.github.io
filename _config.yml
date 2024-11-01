@@ -228,12 +228,6 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages"]
-exclude:
-  - people
-  - blog
-  - publications
-  - teaching
-  - submenus
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
